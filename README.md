@@ -1,2 +1,6 @@
 # emea-mrc-kyc-lifecycle-manager-webapp
-merchant-experience / critical / emea
+
+Team: **merchant-experience**  
+Tier: **critical**  
+Region: **emea**  
+Synthetic demo repo for the Domo governance platform.
